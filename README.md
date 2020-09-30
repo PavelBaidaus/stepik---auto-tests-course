@@ -1,2 +1,2 @@
 # stepik---auto-tests-course
-Homework
+Homework for STEPIK course auto test with Selenium and Python
